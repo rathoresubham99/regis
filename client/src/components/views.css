@@ -1,0 +1,20 @@
+.c1{
+    height: 80%;
+    width: 100%;
+    margin-left:-5vw !important;
+}
+.c1 button {
+	background-color: green;
+	border: 2px solid #00df68;
+	border-radius: 4px;
+	color: #fff;
+	
+	font-family: inherit;
+	font-size: 1rem;
+	padding: 10px;
+	margin-top: 5vh;
+	width: 100%;
+	cursor: pointer;
+
+	
+}
